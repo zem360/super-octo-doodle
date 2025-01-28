@@ -43,7 +43,7 @@ requests
 
 ### 3. Download ChromeDriver
 
-Download the ChromeDriver version that matches your installed version of Google Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/).
+Download the ChromeDriver version that matches your installed version of Google Chrome.
 
 Place the downloaded `chromedriver` in the `chromedriver-linux64/` directory (or update the path in the code).
 

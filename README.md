@@ -1,6 +1,6 @@
 # Real Estate Listing Scraper & Notifier
 
-This Python project uses **Selenium** to scrape real estate listings from a website and send notifications via **Telegram** for new listings. It is designed to run in headless mode and automatically checks for new listings that haven't been seen before.
+This Python project uses **Selenium** to scrape real estate listings from a website(Gewobag) and send notifications via **Telegram** for new listings. It is designed to run in headless mode and automatically checks for new listings that haven't been seen before.
 
 ## Features
 
